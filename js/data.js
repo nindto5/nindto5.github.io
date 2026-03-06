@@ -35,7 +35,7 @@ const PROJECTS = {
       image:    "frank-n-co.png",
       video:    "frank-n-co.mp4",
       desc:     "Interactive dashboard visualizing frank n co sales data across different products and regions.",
-      longDesc: "Built with Looker Studio, this dashboard maps bilateral trade flows between Indonesia and its top 20 trade partners. Users can filter by commodity group, year, and direction (import/export) to explore patterns over time.",
+      longDesc: "Built with Looker Studio, this dashboard provides a comprehensive view of frank n co sales data, allowing users to explore information by product category, region, and time period. The dashboard features dynamic charts and filters for an engaging data exploration experience.",
       tags:     ["D3.js", "Trade", "Dashboard", "Indonesia"],
       link:     "https://lookerstudio.google.com/reporting/12fef119-e0c1-429e-8b3f-3887048b6b4b"
     },
