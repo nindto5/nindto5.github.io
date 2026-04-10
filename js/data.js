@@ -66,6 +66,15 @@ const PROJECTS = {
       tags:     ["Tableau", "Banking", "Loans", "Dashboard"],
       link:     "https://public.tableau.com/views/BANKLOADDATA/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
     },
+{
+  title:    "Bocorocco Sales Performance Dashboard",
+  image:    "bocorocco.png",
+  video:    "bocorocco.mp4",
+  desc:     "End-to-end sales analysis mock project for Bocorocco, an Indonesian premium footwear brand.",
+  longDesc: "Built with Google Sheets and Looker Studio, this mock portfolio project analyzes Bocorocco's Q1 2026 sales performance across 4 channels (IBO, Dept Store, Event, Marketplace). Covers data cleaning, channel breakdown, IBO performance ranking, customer satisfaction analysis, and actionable recommendations, all structured around real business questions a Sales Support would answer.",
+  tags:     ["Google Sheets", "Looker Studio", "Sales Analysis", "Dashboard"],
+  link:     "https://github.com/nindto5/bocorocco-sales-performance"
+},
     {
       title:    "HR Analytics Dashboard",
       image:    "hr-analytics.png",
@@ -121,7 +130,7 @@ const PROJECTS = {
       video: "gafeta-website.mp4",
       desc:     "Designed and implemented core user features, including secure login portals, intuitive product categorization systems, and unified brand styling to ensure a seamless experience",
       longDesc: "In this project I designed and implemented core user-facing features across 14 e-commerce domains under the Gafeta/Gamakemas brand. This included building secure login portals, structuring intuitive product categorization systems, and applying unified brand styling across all domains to ensure a consistent and seamless shopping experience regardless of which domain the user landed on.",
-      tags:     ["HTML", "CSS", "JavaScript", "Node.js",  "Domain Management"],
+      tags:     ["HTML", "CSS", "JavaScript", "Node.js",  "Domain Management", "Express", "Nginx"],
       link:     "#"
     },
         {
