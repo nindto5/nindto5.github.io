@@ -140,7 +140,7 @@ const PROJECTS = {
       desc:     "Built dynamic data tables with a search and multi-criteria filtering, enabling admin to sort products by specific domains (e.g., gafeta.id), date ranges, and technical parameters",
       longDesc: "In this project I built an internal CMS admin panel for the Gafeta platform, focused on giving administrators full control over product data management. I implemented dynamic data tables with real-time search and multi-criteria filtering, allowing admins to sort and browse products by specific domains (e.g., gafeta.id), date ranges, and technical parameters. The goal was to make large-scale product management across 14 domains practical and efficient.",
       tags:     ["Node.js", "CMS", "Product Management", "Admin Panel", "HTML/CSS/JS", "Responsive"],
-      link:     "#"
+      link:     "https://www.labkemasan.com/"
     },
     {
       title:    "mandalapilar.com",
